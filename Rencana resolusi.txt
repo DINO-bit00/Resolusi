@@ -1,3 +1,5 @@
 Belajar mandiri hingga paham bahasa Python
 Menyelesaikan program coding camp di dicoding dengan nilai A
 Menguasai beberapa bahasa pemrograman
+-HTML, CSS, JS
+-React 
