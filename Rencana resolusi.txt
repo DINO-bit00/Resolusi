@@ -5,3 +5,4 @@ Menguasai beberapa bahasa pemrograman
 Kuasai fundamental coding
 -Python
 -Basic data
+
