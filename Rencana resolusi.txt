@@ -3,3 +3,4 @@ Menyelesaikan program coding camp di dicoding dengan nilai A
 Menguasai beberapa bahasa pemrograman
 Kuasai fundamental coding
 -Python
+-Basic data
